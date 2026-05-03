@@ -6,7 +6,7 @@ A beautifully designed, fully functional calculator mobile application built wit
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="Screenshot 2026-05-02 192714.png" alt="Calculator" width="200" />
+  <img src="Screenshot 2026-05-03 180328.png" alt="Calculator" width="200" />
 </div>
 
 
@@ -22,15 +22,6 @@ A beautifully designed, fully functional calculator mobile application built wit
 - ✅ **Large Number Formatting** - Automatically formats large numbers with exponential notation
 - ✅ **Responsive Design** - Adapts to different screen sizes
 - ✅ **Modern UI** - Colorful design with red numbers, teal operations, and yellow functions
-
-## 🎨 Color Scheme
-
-| Button Type | Background Color | Text Color |
-|------------|-----------------|------------|
-| Numbers (0-9, .) | 🟥 Red (#FF6B6B) | 🟠 Orange (#cf5205) |
-| Operations (+,-,*,/,=) | 🔵 Teal (#4ECDC4) | 🩷 Pink (#b03382) |
-| Functions (C,CE,%,±) | 🟨 Yellow (#ecdc8c) | 🔵 Teal (#4ECDC4) |
-| App Background | 🩷 Pink (#ed8787) | - |
 
 
 ## 🚀 Getting Started
