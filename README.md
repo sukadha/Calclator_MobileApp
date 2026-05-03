@@ -2,6 +2,14 @@
 
 A beautifully designed, fully functional calculator mobile application built with React Native and TypeScript. This app provides a smooth user experience with vibrant colors, haptic feedback, and accurate mathematical calculations.
 
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="Screenshot 2026-05-02 192714.png" alt="Calculator" width="200" />
+</div>
+
+
 ## ✨ Features
 
 - ✅ **Basic Arithmetic Operations** - Addition, subtraction, multiplication, division
@@ -24,9 +32,6 @@ A beautifully designed, fully functional calculator mobile application built wit
 | Functions (C,CE,%,±) | 🟨 Yellow (#ecdc8c) | 🔵 Teal (#4ECDC4) |
 | App Background | 🩷 Pink (#ed8787) | - |
 
-## 📸 Screenshots
-
-*(Add your app screenshots here)*
 
 ## 🚀 Getting Started
 
